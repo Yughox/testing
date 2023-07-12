@@ -11,6 +11,6 @@ name=yugho
 cpy=Amazon
 
 echo "Welcome Mr $name"
-echo "What would you request from $cpy today"
+echo "What would you request from $cpy store today"
 echo "Thanks"
 #comment one
